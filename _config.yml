@@ -1,0 +1,14 @@
+layout_spectrum: 0.4545998
+color:
+  saturation: 0.8046594
+  lightness: 1
+  brandStrength: 0.7353644
+  brandColors:
+    - '#525556'
+    - '#E0E3E4'
+    - '#C33E1B'
+    - '#E38234'
+    - '#000000'
+  rhythmicContrast: 0.9378204
+typography_spectrum: 0.750896
+name: SnapStar
