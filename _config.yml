@@ -1,4 +1,4 @@
-layout_spectrum: 0.4545998
+typography_spectrum: 0.750896
 color:
   saturation: 0.8046594
   lightness: 1
@@ -10,5 +10,14 @@ color:
     - '#E38234'
     - '#000000'
   rhythmicContrast: 0.9378204
-typography_spectrum: 0.750896
-name: SnapStar
+layout_spectrum: 0.4545998
+author:
+  name: Troy Chee
+  email: boss@snapstar.biz
+  url: www.snapstar.biz
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/f6de83ae-8a3b-4b7b-82b8-522ad170f2b9.png
+name: SnapStar - Just Snap and Star
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/1c0ede8f-d159-48ce-85bd-b8bcba841191.jpg
+title: A Safe Place you important Photos
