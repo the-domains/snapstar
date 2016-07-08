@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[A Safe Place for your  important Photos]]></title>
+        <description><![CDATA[A Safe Place for your  important Photos]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 08 Jul 2016 08:00:40 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[SnapStar is coming - Save your wallet or purse in a safe place.]]></title>
+            <description><![CDATA[<article><h1>SnapStar is coming - Save your wallet or purse in a safe place.</h1><p>SnapStar the easiest way to securely save photos of importance.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/db1d4c84f4ac519cd28973819741bdc2eacdd59f.jpg"></article>]]></description>
+            <link>undefinedsnapstar-is-coming-save-your-wallet-or-purse-in-a-safe-pla/index.html</link>
+            <guid isPermaLink="false">620ce95a-ca7b-4ff0-9f62-7f95b1943f9e</guid>
+            <pubDate>Fri, 08 Jul 2016 08:00:38 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
