@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: SnapStar the easiest way to securely save photos of importance.
-datePublished: '2016-07-08T08:00:38.503Z'
-dateModified: '2016-07-08T08:00:37.722Z'
+datePublished: '2016-07-08T08:02:30.078Z'
+dateModified: '2016-07-08T08:02:02.691Z'
 title: SnapStar is coming - Save your wallet or purse in a safe place.
 author:
   - name: ''
@@ -21,7 +21,6 @@ _type: Article
 
 ---
 # SnapStar is coming - Save your wallet or purse in a safe place.
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/db1d4c84f4ac519cd28973819741bdc2eacdd59f.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/36594f15-c17a-4bf2-ad25-52ef301ffb7f.jpg)
 
 SnapStar the easiest way to securely save photos of importance.
