@@ -8,8 +8,8 @@ description: >-
   SnapStar the easiest and sexiest way to securely save photos of importance,
   Credit cards, loyalty cards, ID Cards, serial numbers, asset pictures or
   invoices, money shots, things to get or any other top secret stuff.
-datePublished: '2016-07-10T02:26:55.756Z'
-dateModified: '2016-07-09T01:15:47.405Z'
+datePublished: '2016-07-10T02:28:12.838Z'
+dateModified: '2016-07-10T02:27:03.402Z'
 title: ''
 author:
   - name: ''
