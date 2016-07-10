@@ -29,7 +29,7 @@ color:
     - '#535353'
     - '#000000'
     - '#d4c141'
-  brandStrength: 0.5
+  brandStrength: 0
   lightness: 0.75
   saturation: 0.6875
   rhythmicContrast: 0.5
