@@ -1,27 +1,4 @@
-name: SnapStar
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/e6609017-f59c-4625-b961-7114e670fd77.png
-layout_spectrum: 0.4545998
 typography_spectrum: 0.750896
-author:
-  name: Troy Chee
-  email: drtron@snapstar.biz
-  url: www.snapstar.biz
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/f6de83ae-8a3b-4b7b-82b8-522ad170f2b9.png
-title: A Safe Place for your  important Photos
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-80234320-1
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#fef49b'
@@ -33,4 +10,27 @@ color:
   lightness: 0.75
   saturation: 0.6875
   rhythmicContrast: 0.5
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.4545998
+analytics:
+  google: UA-80234320-1
+  facebook: null
+  twitter: null
+author:
+  name: Troy Chee
+  email: drtron@snapstar.biz
+  url: www.snapstar.biz
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/f6de83ae-8a3b-4b7b-82b8-522ad170f2b9.png
+name: SnapStar
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/e6609017-f59c-4625-b961-7114e670fd77.png
+title: A Safe Place for your  important Photos
 purpose: []
