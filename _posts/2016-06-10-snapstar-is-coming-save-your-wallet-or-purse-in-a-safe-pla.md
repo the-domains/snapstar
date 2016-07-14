@@ -8,8 +8,8 @@ description: >-
   SnapStar the easiest and sexiest way to securely save photos of importance,
   Credit cards, loyalty cards, ID Cards, serial numbers, asset pictures or
   invoices, money shots, things to get or any other top secret stuff.
-datePublished: '2016-07-14T12:01:31.167Z'
-dateModified: '2016-07-14T12:01:30.742Z'
+datePublished: '2016-07-14T12:01:34.878Z'
+dateModified: '2016-07-14T12:01:34.097Z'
 title: ''
 author:
   - name: ''
@@ -18,7 +18,7 @@ sourcePath: >-
   _posts/2016-06-10-snapstar-is-coming-save-your-wallet-or-purse-in-a-safe-pla.md
 authors: []
 publisher: null
-starred: false
+starred: true
 url: snapstar-save-your-wallet-or-purse-in-a-safe-place/index.html
 _type: WebPage
 
