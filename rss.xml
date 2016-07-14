@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[A Safe Place for your  important Photos]]></title>
+        <description><![CDATA[A Safe Place for your  important Photos]]></description>
+        <link>http://snapstar.biz/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 14 Jul 2016 12:02:04 GMT</lastBuildDate>
+        <atom:link href="http://snapstar.biz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[SNAPSTAR]]></title>
+            <description><![CDATA[<article><h1>SNAPSTAR</h1><p>SnapStar the easiest and sexiest way to securely save photos of importance, Credit cards, loyalty cards, ID Cards, serial numbers, asset pictures or invoices, money shots, things to get or any other top secret stuff.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/7f26a99fe6bf74cc53a802e7dc333088/croprotate.jpg?cropheight=361&cropwidth=256&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fc834ee01-338e-4c71-b5b2-3a08b495da61.jpg&x=16&y=0"></article>]]></description>
+            <link>http://snapstar.biz/snapstar/index.html</link>
+            <guid isPermaLink="false">d5677be1-1f4a-4399-b811-11e6312117e6</guid>
+            <pubDate>Thu, 14 Jul 2016 12:01:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/74f05092-b4fd-4aeb-a2f3-52e01c88e928.jpg">]]></description>
+            <link>http://snapstar.biz/b9167aa6-d2fc-4284-9099-18915664e2fc/index.html</link>
+            <guid isPermaLink="false">b9167aa6-d2fc-4284-9099-18915664e2fc</guid>
+            <pubDate>Thu, 14 Jul 2016 12:01:57 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
