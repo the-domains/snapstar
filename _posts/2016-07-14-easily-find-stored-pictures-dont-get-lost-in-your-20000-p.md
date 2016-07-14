@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-07-14T12:01:58.824Z'
+datePublished: '2016-07-14T12:02:29.727Z'
 sourcePath: _posts/2016-07-14-easily-find-stored-pictures-dont-get-lost-in-your-20000-p.md
 inFeed: true
 authors: []
 hasPage: true
 keywords: []
 author: []
-dateModified: '2016-07-14T11:59:45.481Z'
+dateModified: '2016-07-14T12:02:29.064Z'
 title: SNAPSTAR
 publisher: null
 description: >-
@@ -15,7 +15,7 @@ description: >-
   invoices, money shots, things to get or any other top secret stuff.
 inLanguage: null
 inNav: false
-starred: true
+starred: false
 url: snapstar/index.html
 _type: Article
 
